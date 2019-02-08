@@ -31,7 +31,7 @@ yarn
 
 ## Multiple declarations - w/o Ivy
 
-- Checkout `multiple-ngmodules` branch
+- Checkout `duplicate-ngmodules` branch
 - Delete `node_modules` folder if needed
 - Run `yarn`
 - Run `yarn start --aot`
@@ -40,7 +40,7 @@ yarn
 
 ## Multiple declarations - Ivy
 
-- Checkout `multiple-ngmodules-ivy` branch
+- Checkout `duplicate-ngmodules-ivy` branch
 - Delete `node_modules` folder if needed
 - Run `yarn`
 - Run `yarn start --aot`
